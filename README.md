@@ -1,7 +1,6 @@
 #task
 This app tracks and manages tasks using React and Tailwind CSS.
-GitHub version
->>>>>>> main
+
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
